@@ -15,8 +15,6 @@
 
 > NodeJS & Redis Database Certificate Manager Platform
 
-### ✨ [Demo](https://upages.xyz/cert-managr)
-
 ## Prerequisites
 
 - node >=16.18.0
